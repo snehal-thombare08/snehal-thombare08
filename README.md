@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm snehal thombare
+# 💫 Hi 👋, I'm snehal Thombare
 **A passionate CSE Student || Competitive Programmer || AI Enthusiast from India 🇮🇳**
 
 Email Me 👉 ✉️ snehalthombare888@example.com For Collaboration/Project or Anything Else. 😊😊
