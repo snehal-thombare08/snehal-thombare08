@@ -16,8 +16,7 @@ Email Me 👉 ✉️ snehalthombare888@example.com For Collaboration/Project or 
 ## 🏆 Competitive Profiles
 - 💙 Codeforces: https://codeforces.com/profile/snehal08_coder
 - 🍛 CodeChef:https://www.codechef.com/users/s_thombare08
-- 💛 LeetCode: https://leetcode.com/snehal-thombare08
-  
+- 💛 LeetCode:https://leetcode.com/u/snehalthombare08/
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/snehal-thombare08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/snehal-thombare08) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/snehal-thombare08) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/snehal-thombare08) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/snehal-thombare08) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/snehal-thombare08) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/snehal-thombare08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehalthombare888@gmail.com) 
